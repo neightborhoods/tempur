@@ -9,8 +9,7 @@ define('APP_TITLE', 'Tiny File Manager');
 $use_auth = true;
 
 $auth_users = array(
-    'admin' => '$2y$10$.R3c9mVnNl5mUdAPnR8PAOc9lZzgAsc4IsDD6R3a93GUmVHtzz02u', 
-    'user' => '$2y$10$.R3c9mVnNl5mUdAPnR8PAOc9lZzgAsc4IsDD6R3a93GUmVHtzz02u' 
+    'admin' => '$2y$10$kmillt0n0qDCzdWcUZExgepTC8RhUQmKnZmotgEcq7MBK.GD9oB/a'
 );
 
 $readonly_users = array(
